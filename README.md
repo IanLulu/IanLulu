@@ -2,4 +2,4 @@
 - 👀 I’m interested in creating software and video games
 - 🌱 I’m currently learning computer graphics, data science, among others
 - 💞️ I’m looking to collaborate on learning
-- 📫 How to reach me: [LinkedIn](linkedin.com/in/ianlulu/), [Email](mailto:ianpatricklulu@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ianlulu/), [Email](mailto:ianpatricklulu@gmail.com)
