@@ -7,4 +7,4 @@ updated pinned repositories. Specified which repos get featured. Can remove them
 
 2024-02-22 16:43 updating profile. changed bio (old bio: learning @ University of Illinois Chicago [created from fall 2021-spring 2022?]), added website (new domain) and linkedin links.
 
-20:03 changed pfp ![old profile picture](/lumpia.jpg)
+20:03 changed pfp (here's the old pfp) ![old profile picture](/lumpia.jpg)
